@@ -19,7 +19,7 @@ Automatically navigate to the next page until all available pages are scraped.
 Save the scraped data into Flipkart_Laptops.csv.
 
 # Output
-# The output CSV file (Flipkart_Laptops.csv) contains the following columns:
+The output CSV file (Flipkart_Laptops.csv) contains the following columns:
 
 Product Name: The name of the laptop.
 Image Link: The URL of the laptop's image.
