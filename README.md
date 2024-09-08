@@ -22,11 +22,17 @@ Save the scraped data into Flipkart_Laptops.csv.
 The output CSV file (Flipkart_Laptops.csv) contains the following columns:
 
 Product Name: The name of the laptop.
+
 Image Link: The URL of the laptop's image.
+
 Price: The price of the laptop.
+
 Description: Key features of the laptop.
+
 Reviews: The number of reviews the laptop has received.
+
 MRP: The Maximum Retail Price of the laptop.
+
 Total Reviews and Rating: A combination of total reviews and average rating.
 
 # conclusion
